@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "price": 19.99,
+    "category": "Electronics",
+    "stock": 120
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "description": "Over-ear headphones with noise cancellation.",
+    "price": 49.99,
+    "category": "Electronics",
+    "stock": 75
+  },
+  {
+    "id": 3,
+    "name": "Coffee Mug",
+    "description": "Ceramic mug, 350ml, dishwasher safe.",
+    "price": 7.5,
+    "category": "Home & Kitchen",
+    "stock": 200
+  },
+  {
+    "id": 4,
+    "name": "Notebook",
+    "description": "A5 lined notebook, 100 pages.",
+    "price": 3.99,
+    "category": "Stationery",
+    "stock": 300
+  },
+  {
+    "id": 5,
+    "name": "USB-C Charger",
+    "description": "Fast charging USB-C wall charger, 20W.",
+    "price": 14.99,
+    "category": "Electronics",
+    "stock": 60
+  }
+]
