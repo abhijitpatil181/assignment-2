@@ -15,11 +15,10 @@ app.get("/", (req, res) => {
 
 app.get("/data", (req, res) => {
   console.log("Fetching data...");
-  res.status(200).json({
+  return res.status(200).json({
     message: "Data Fetched Successfully",
     data: [{ employees: employees }, { products: products }],
   });
-  res.send("Response sent");
 });
 
 app.listen(PORT, () => {
